@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "03e03fb4d015c429",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a370cb442e79da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c5ff3106bcbed4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DAB/TIDUES0C.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdf98b88f6502cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0add3a7622354cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f612fe62b8c49a4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8315710123274021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bf507e53e536e03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "070633553132f041",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ab6d4f2e0ce63b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b1019d6d1844c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAB/TIDUES0C.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fc07631c1c88eda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DAB/TIDUES0C.pdf",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6056513852de0c85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d004636057650151",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAB/TIDUES0C.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "10c5ff3106bcbed4",
+  "lastOpenFiles": [
+    "PV S-SST/Untitled.canvas",
+    "PV S-SST/Untitled.md",
+    "Untitled.canvas",
+    "demo1",
+    "新建文件夹",
+    "demo",
+    "EV Charge/PWM PFC Converter（Totem-Tole PFC）.md",
+    "DAB/TIDUES0C.pdf",
+    "EV Charge/Conventional Boost PFC Converter.md",
+    "EV Charge/EV battery charge.canvas",
+    "EV Charge/Bridgeless Boost PFC Converter.md",
+    "EV Charge/Interleaved Boost PFC Converter.md",
+    "EV Charge/Charging Level 3.md",
+    "PV S-SST/Typical ac coupled utility-scale PV + energy storage system..png",
+    "PV S-SST/Pasted image 20231111212805.png",
+    "EV Charge/Figure/Pasted image 20231107182754.png",
+    "DAB",
+    "DAB.md",
+    "Power Electronics for BESS Grid Integration/Untitled.canvas",
+    "Power Electronics for BESS Grid Integration/Series connection of semiconductors.md",
+    "Power Electronics for BESS Grid Integration/Series connection of SM.md",
+    "Power Electronics for BESS Grid Integration/Solid-State Transformer.md",
+    "Power Electronics for BESS Grid Integration/voltage SST prototypes..md",
+    "EV Charge/Bridgeless Interleaved Boost PFC Converter.md",
+    "EV Charge/comparison.md",
+    "EV Charge/PFC.md",
+    "Power Electronics for BESS Grid Integration/Untitled.md",
+    "Power Electronics for BESS Grid Integration/Figure/DAB topology.png",
+    "Power Electronics for BESS Grid Integration/Figure/SST topology categories..png",
+    "Power Electronics for BESS Grid Integration/Figure/Untitled.md",
+    "Power Electronics for BESS Grid Integration/Figure/Grid interface converters category..png",
+    "Power Electronics for BESS Grid Integration/Figure/MMC and corresponding SMs. (a) Centralized batteries on the dc-link. (b) Distributed batteries in the SMs.gif",
+    "PV S-SST/pou13-3183289-small.gif",
+    "pou9-3183289-small 1.gif.md",
+    "[.md",
+    "Power Electronics for BESS Grid Integration/Figure/a series connection of IGBTs for direct connection to the MV grid using a two-level converter..png",
+    "Power Electronics for BESS Grid Integration/Figure",
+    "Power Electronics for BESS Grid Integration/Figure/CHB inverter with direct connection of the BESS to the MV grid.png",
+    "Power Electronics for BESS Grid Integration",
+    "Untitled 1",
+    "PV S-SST/Figure",
+    "PV S-SST",
+    "demo1.md",
+    "2023-11-03.md",
+    "Untitled 2.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+![[SST topology categories..png]]

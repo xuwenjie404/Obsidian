@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"57af32cf03429e81","type":"text","text":"# LEVEL 2","x":-420,"y":-382,"width":180,"height":50,"color":"3"},
+		{"id":"8629838c9e098a64","type":"text","text":"# LEVEL 1","x":-420,"y":-460,"width":180,"height":50,"color":"3"},
+		{"id":"2ffe460d8e59572a","type":"text","text":"# LEVEL 3","x":-420,"y":-300,"width":180,"height":50,"color":"3"},
+		{"id":"1a9d8b5768c9c2fb","type":"text","text":"# Charging Level","x":-860,"y":-387,"width":260,"height":55},
+		{"id":"c969a574f3997306","type":"file","file":"EV Charge/PFC.md","x":-600,"y":0,"width":460,"height":440},
+		{"id":"5cb49514d071bf20","type":"file","file":"EV Charge/Figure/EV charging Level Types.png","x":-860,"y":-740,"width":813,"height":240},
+		{"id":"aa8bf0d176537b9e","type":"file","file":"EV Charge/Charging Level 3.md","x":87,"y":-139,"width":573,"height":579},
+		{"id":"06751cd7d6fabbff","type":"file","file":"EV Charge/Bridgeless Boost PFC Converter.md","x":-12,"y":720,"width":660,"height":1320,"color":"2"},
+		{"id":"275ad36393c1a860","type":"file","file":"EV Charge/PWM PFC Converter（Totem-Tole PFC）.md","x":660,"y":720,"width":660,"height":1040,"color":"2"},
+		{"id":"f252151f406f6a7f","type":"file","file":"EV Charge/Conventional Boost PFC Converter.md","x":-612,"y":720,"width":580,"height":1040,"color":"2"},
+		{"id":"90779e19201a434f","type":"text","text":"# Power Quality","x":-1410,"y":212,"width":280,"height":72,"color":"5"},
+		{"id":"d1e92a650db5075c","type":"text","text":"# PFC","x":-990,"y":220,"width":130,"height":55},
+		{"id":"08a688948f8bf085","type":"file","file":"EV Charge/comparison.md","x":720,"y":180,"width":1080,"height":248},
+		{"id":"2ec98b084974cd69","type":"file","file":"EV Charge/Bridgeless Interleaved Boost PFC Converter.md","x":-12,"y":2080,"width":660,"height":920,"color":"3"}
+	],
+	"edges":[
+		{"id":"440bb27aac82d925","fromNode":"1a9d8b5768c9c2fb","fromSide":"right","toNode":"57af32cf03429e81","toSide":"left"},
+		{"id":"ab08290383cd36c8","fromNode":"1a9d8b5768c9c2fb","fromSide":"right","toNode":"8629838c9e098a64","toSide":"left"},
+		{"id":"386a32d4175a0864","fromNode":"1a9d8b5768c9c2fb","fromSide":"right","toNode":"2ffe460d8e59572a","toSide":"left"},
+		{"id":"c4cf245b75806d65","fromNode":"2ffe460d8e59572a","fromSide":"right","toNode":"aa8bf0d176537b9e","toSide":"left"},
+		{"id":"332a8265c55427e5","fromNode":"d1e92a650db5075c","fromSide":"right","toNode":"c969a574f3997306","toSide":"left"},
+		{"id":"dfce9a3f552cf030","fromNode":"90779e19201a434f","fromSide":"right","toNode":"d1e92a650db5075c","toSide":"left"},
+		{"id":"2b7f7331e3ffcac7","fromNode":"d1e92a650db5075c","fromSide":"right","toNode":"f252151f406f6a7f","toSide":"left"}
+	]
+}

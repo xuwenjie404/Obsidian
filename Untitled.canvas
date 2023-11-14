@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"09ce0af1fc84cb11","type":"text","text":"BOOST PFC","x":-660,"y":-510,"width":250,"height":60,"color":"2"},
+		{"id":"f3c2574e3135ee28","type":"text","text":"PFC","x":-300,"y":-410,"width":250,"height":50},
+		{"id":"53c1bb4b1878ddc2","type":"text","text":"history\nboost application\nPFC application\n","x":-635,"y":-340,"width":200,"height":140},
+		{"id":"be9f6a1c9dba3cc6","type":"text","text":"application","x":-280,"y":-880,"width":250,"height":60},
+		{"id":"09c112f8a007fd58","type":"text","text":"Boost ","x":-200,"y":-720,"width":250,"height":50},
+		{"id":"6db45b61f8314478","type":"text","text":"- Circuit\n- quality of the circuits","x":-200,"y":-640,"width":250,"height":130}
+	],
+	"edges":[
+		{"id":"a35560382224e8f2","fromNode":"09ce0af1fc84cb11","fromSide":"bottom","toNode":"53c1bb4b1878ddc2","toSide":"top"},
+		{"id":"92280f3c6273ba73","fromNode":"09ce0af1fc84cb11","fromSide":"right","toNode":"be9f6a1c9dba3cc6","toSide":"left"},
+		{"id":"b63119820c317ddb","fromNode":"09ce0af1fc84cb11","fromSide":"right","toNode":"09c112f8a007fd58","toSide":"left","toEnd":"none"},
+		{"id":"fab90422dd6cd94e","fromNode":"09ce0af1fc84cb11","fromSide":"right","toNode":"f3c2574e3135ee28","toSide":"left","toEnd":"none"}
+	]
+}

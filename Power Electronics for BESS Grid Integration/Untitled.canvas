@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"599a5768125589b9","type":"text","text":"Transformerless","x":-85,"y":-120,"width":200,"height":60,"color":"2"},
+		{"id":"46a52cf88f8882cb","type":"text","text":"Switches series connection","x":227,"y":-160,"width":333,"height":60},
+		{"id":"8bac68e1946d0803","type":"file","file":"Power Electronics for BESS Grid Integration/Series connection of semiconductors.md","x":768,"y":-720,"width":601,"height":534},
+		{"id":"827508de22410866","type":"text","text":"SST","x":-38,"y":435,"width":105,"height":60,"color":"2"},
+		{"id":"bc3319a46aa669c0","type":"text","text":"Single-stage\n","x":207,"y":378,"width":193,"height":50},
+		{"id":"a07c1e039bf2dc84","type":"text","text":"HV dc link","x":477,"y":414,"width":250,"height":60},
+		{"id":"d3db6bbf061fed23","type":"text","text":"Two-stage","x":207,"y":443,"width":168,"height":52},
+		{"id":"30773040b0a1631b","type":"text","text":"Three stage","x":207,"y":503,"width":168,"height":60},
+		{"id":"298bf663a62b1aea","type":"text","text":"BESS grid interface converters\n","x":-500,"y":-340,"width":340,"height":60,"color":"1"},
+		{"id":"655ed9f4f945b547","type":"text","text":"LV dc link","x":477,"y":495,"width":250,"height":60},
+		{"id":"49f0d7b73370152c","type":"text","text":"SMs series connection","x":227,"y":-60,"width":250,"height":60},
+		{"id":"047784d0826b6706","type":"file","file":"Power Electronics for BESS Grid Integration/Series connection of SM.md","x":227,"y":50,"width":453,"height":290},
+		{"id":"8685af5c2b19fe53","type":"text","text":"CHB","x":768,"y":-90,"width":125,"height":60},
+		{"id":"439c1b806992cd4e","type":"text","text":"MMC","x":768,"y":-10,"width":125,"height":60},
+		{"id":"b9460a985d14b1c2","type":"file","file":"Power Electronics for BESS Grid Integration/Solid-State Transformer.md","x":-38,"y":640,"width":640,"height":1160},
+		{"id":"977c1ef504eeeea4","type":"file","file":"Power Electronics for BESS Grid Integration/voltage SST prototypes..md","x":680,"y":640,"width":1460,"height":820}
+	],
+	"edges":[
+		{"id":"a8fdce1c51e95199","fromNode":"298bf663a62b1aea","fromSide":"bottom","toNode":"827508de22410866","toSide":"left"},
+		{"id":"ad69d421d3a9869c","fromNode":"298bf663a62b1aea","fromSide":"bottom","toNode":"599a5768125589b9","toSide":"left"},
+		{"id":"c0b2d7d7a43e758e","fromNode":"827508de22410866","fromSide":"right","toNode":"bc3319a46aa669c0","toSide":"left"},
+		{"id":"70c31621a56d03ff","fromNode":"827508de22410866","fromSide":"right","toNode":"d3db6bbf061fed23","toSide":"left"},
+		{"id":"62821e669f14a425","fromNode":"d3db6bbf061fed23","fromSide":"right","toNode":"a07c1e039bf2dc84","toSide":"left"},
+		{"id":"6329de1512f05d23","fromNode":"d3db6bbf061fed23","fromSide":"right","toNode":"655ed9f4f945b547","toSide":"left"},
+		{"id":"c2606480e6b552d0","fromNode":"827508de22410866","fromSide":"right","toNode":"30773040b0a1631b","toSide":"left"},
+		{"id":"f329f0dec2b11beb","fromNode":"599a5768125589b9","fromSide":"right","toNode":"46a52cf88f8882cb","toSide":"left"},
+		{"id":"7c9aaa68a706e801","fromNode":"599a5768125589b9","fromSide":"right","toNode":"49f0d7b73370152c","toSide":"left"},
+		{"id":"18c8cc6daf14861c","fromNode":"49f0d7b73370152c","fromSide":"right","toNode":"8685af5c2b19fe53","toSide":"left"},
+		{"id":"7953e7f6cb5a602f","fromNode":"49f0d7b73370152c","fromSide":"right","toNode":"439c1b806992cd4e","toSide":"left"},
+		{"id":"e6894ac460ea11a2","fromNode":"46a52cf88f8882cb","fromSide":"right","toNode":"8bac68e1946d0803","toSide":"left"}
+	]
+}
